@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "build:app": "npm --prefix my-app run build",
+    "deploy": "npm run build:app && node scripts/deploy-to-root.cjs"
+  }
+}
