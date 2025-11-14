@@ -2,7 +2,7 @@
 node_modules/
 my-app/node_modules/
 
-# build artifacts inside the React app (gets synced manually)
+# build artifacts created in CI
 my-app/build/
 
 # misc
